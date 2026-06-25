@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>Untagged on NomadicPunk</title>
+		<title>Untagged on </title>
 		<link>http://localhost:1313/en/tags/untagged/</link>
-		<description>Recent content in Untagged on NomadicPunk</description>
+		<description>Recent content in Untagged on </description>
 		<generator>Hugo -- 0.163.3</generator>
-		<language>en-US</language>
-		<copyright>Christopher Clements</copyright>
+		<language>en</language>
 		<lastBuildDate>Mon, 22 Jun 2026 14:04:12 -0700</lastBuildDate>
 		<atom:link href="http://localhost:1313/en/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
 		
