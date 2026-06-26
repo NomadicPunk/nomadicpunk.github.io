@@ -6,7 +6,7 @@ title = 'About'
 
 ## The Obligatory About Page  
 ---
-I never much cared much for talking about myself, My experiences..absolutly, but who I am as a person, or the ole *"So Chris, tell me a little bit about yourself"*, That every interviewer seems to enjoy torturing perspective hires with..not so much. So, since this is my website I decided to let you figure out who I am. They say a picture is worth a thousand words so these should help you determine exactly who I am undoubtly( plus it gives me an opportunity to learn how to embed pictures haha) 
+I never much cared for talking about myself, My experiences..absolutly, but who I am as a person, or the ole *"So Chris, tell me a little bit about yourself"*, That every interviewer seems to enjoy torturing perspective hires with..not so much. So, since this is my website I decided to let you figure out who I am. They say a picture is worth a thousand words so these should help you determine exactly who I am undoubtly( plus it gives me an opportunity to learn how to embed pictures haha) 
 
   ![Nomadic Punk Today](me_recent.jpg) a little about me with this? Perhaps that being a hairstylist was my calling? A missed opportunity to be sure! Maybe there is something my eyes give away? perhaps not..
 
