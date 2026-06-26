@@ -38,21 +38,12 @@ I never much cared for talking about myself, My experiences..absolutly, but who 
 
 
 
-
-
-
 ![me_seaside](me_seaside.jpg)Or walk around in a fishermans sweater in a fishing village?
 
 
 
 
 
-
-![me_sharp](me_sharp.jpg)Sport a new pair of cowboy boots? 
-
-
-
-![Thinking](me_contemplative 3.jpg)
 
 ---
 I am, of course being a litte facitious with this post. My point being a paragragh or two, or a few minutes in an interview room can't even begin to describe who I am, It may infact lead you in the wrong direction as not having all the information tends to do. I am a human being , and so are you. A beautiful, confusingly complex human being...just like you...maybe it is time we stop acting like we can condense ourselves into some easily describably blurb and instead celebrate every little thing we are that we could never fit into a resume <3
